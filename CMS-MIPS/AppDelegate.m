@@ -18,11 +18,8 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
-    
- //   [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:28.0/255.0f green:67.0/255.0f blue:134.0/255.0f alpha:1.0]];
- //   [[UINavigationBar appearance] setTranslucent:NO];
-    
+ 
+    //cc3
     
     [[UINavigationBar appearance] setTitleTextAttributes: @{
                                                             NSFontAttributeName: [UIFont fontWithName:@"DINAlternate-Medium" size:21.0f]
