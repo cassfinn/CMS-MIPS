@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BookCollectionViewCell.h
 //  CMS-MIPS
 //
 //  Created by Claudia Cassidy on 9/23/16.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController <UICollectionViewDelegate,UICollectionViewDataSource>
+@interface BookCollectionViewCell : UICollectionViewCell
 
+@property (weak, nonatomic) IBOutlet UILabel *lblTitle;
 
 @end
-

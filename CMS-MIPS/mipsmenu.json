@@ -1,0 +1,62 @@
+
+{ "menus": [
+
+    {
+        "title": "Welcome",
+        "link": "ViewWelcome"
+    },
+
+    {
+        "title": "MACRA 101",
+        "value": "File",
+        "tutorials": {
+            "menuitem": [
+                         {"title": "MACRA Reforms Medicare Payments", "subtitle":"Medicare Payment Reforms", "type": "View", "link":"http://www."},
+                         {"title": "Paying for Value and Better Care", "subtitle":"MACRA Quality Payment Program", "type": "View", "link":"http://www.","summary":"this is a summary"},
+                         {"title": "New Ways to Pay Health Care Providers", "subtitle":"APMs Alternative Payment Modules", "type": "Menu"},
+                         {"title": "Merit-Cased Incentive Payment System", "subtitle":"MIPS Program", "type": "web","summary": "This is a summary of the content in the presentation."},
+                         {"title": "Introduction to the QPP", "subtitle":"Short video about the Quality Payment Program", "type": "web"},
+                         {"title": "Preparing for MACRA", "subtitle":"Introduction to MACRA slide deck", "type": "web","summary": "This is a summary of the content in the presentation."},
+                         ]
+        }
+    },
+
+    {
+        "title": "MIPS Performance Measures",
+        "link": "ViewCalculator"
+    },
+
+    {
+        "title": "Timeline",
+        "link": "ViewTimeline"
+    },
+
+    {
+        "title": "Transition Checklist",
+        "link": "ViewChecklist"
+    },
+
+    {
+        "title": "News",
+        "link": "ViewNews"
+    },
+    {
+        "title":"Contacts",
+        "link":"ViewContacts"
+    }
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
